@@ -3,7 +3,7 @@
   "Title": "Update Log",
   "Description": "🛠️Added Class file 2 Dex file in Class Tools \n🛠️Fixed a bug when you try to list methods from a large Smali file for Smali Method Flow Chart.. and it's opening speed is much faster than ever.. You can open large Smali File within seconds with no lag issue in all device.. \n🛠️Fixed auto scroll problem while seeing the comparison result in TextComparator and Horizontal ScrollView now Removed from there\n🛠️Fixed a bug, when you try to import an apk for Apk Cloner, some time in lower android, it is crashing because of ANR (Application Not Responding)\n🛠️Fixed and improved some logic in Custom Dialog Server which is currently not available but soon it will open publicly by server update..",
   "MainTextButton": "Update Now",
-  "Cancelable": false,
+  "Cancelable": true,
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://dl.NoGutsNoGlory.eu.org/995294/Psiphon+Pro_398.apk?hash=SHBGCP9",
   "Version": 1.3
